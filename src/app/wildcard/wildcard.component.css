@@ -1,0 +1,12 @@
+.background{
+    background: rgba(0, 0, 0, 0) url('/assets/background.jpg');
+    background-size: cover;
+    background-blend-mode: darken;
+}
+h1{
+    height: 100vh;
+    color: red;
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
