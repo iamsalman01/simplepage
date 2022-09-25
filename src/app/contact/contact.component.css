@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contact{
+    background-color: azure;
+    height: 100vh;
+    
+}
+.text-center{
+    text-align: center;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form{
+    max-width: 1200px;
+    margin: auto;
+    
+}
+.form-input{
+    width: 100%;
+    padding: 5px;
+    font-size: 19px;
+    border: 2px solid black;
+    border-radius: 7px;
+    margin: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form :hover{
+    border: 3px solid green;
+    
+}
+.btn-dark{
+    /* color: black;
+    border: black; */
+    border-color: black;
+    width: 100px;
+    height: 34px;
+    margin: 10px;
+    margin-left: 12px;
+    border-radius: 5px;
+}

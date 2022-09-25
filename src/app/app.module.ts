@@ -9,6 +9,7 @@ import { AboutComponent } from './about/about.component';
 import { ContactComponent } from './contact/contact.component';
 import { ServicesComponent } from './services/services.component';
 import { WildcardComponent } from './wildcard/wildcard.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { WildcardComponent } from './wildcard/wildcard.component';
     AboutComponent,
     ContactComponent,
     ServicesComponent,
-    WildcardComponent
+    WildcardComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

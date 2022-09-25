@@ -49,7 +49,7 @@ font-size: 20px;
   display: flex;
   align-items: center;
   justify-content: center;  
-  max-width: 80%;
+  max-width: 55%;
     margin: auto;
 
 }
@@ -58,8 +58,9 @@ font-size: 20px;
   display: flex;
   align-items: center;
   justify-content: center;  
-  max-width: 72%;
+  max-width: 55%;
   margin: auto;
+  padding-left: 30px;
 }
 
 
@@ -68,9 +69,11 @@ font-size: 20px;
 }
 .secthumbnail{
     padding: 180px 0px 0px 20px;
+    margin-right: -400px;
 }
 .thumbnail{
     padding: 110px 0px 0px 0px;
+    margin-left: -147px;
 }
 .thumbnail img{
     
